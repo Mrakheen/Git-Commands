@@ -15,13 +15,13 @@ ___
 | Configure the author email address.|`git config --global user.email <email address>`|
 
 
-
 ### Getting & Creating Projects
 
 | Description | Command  |
 | ------- | ----------- |
 | Initialize a local Git repository | `git init` |
 | Create a local copy of a remote repository | `git clone ssh://git@github.com/<username>/<repository-name>.git` |
+
 
 ### Basic Snapshotting
 
@@ -42,7 +42,6 @@ ___
 | View changes | `git log` |
 | View changes (detailed) | `git log --summary` |
 | View changes in one line (briefly) | `git log --oneline` or <br> `git log --pretty=oneline` or<br> `git log --pretty=short` |
-
 
 
 
@@ -80,6 +79,7 @@ ___
 | Stash changes in a dirty working directory | `git stash` |
 | Remove all stashed entries | `git stash clear` |
 
+
 ### Sharing & Updating Projects
 
 | Description | Command |
@@ -95,3 +95,21 @@ ___
 | Add a remote repository | `git remote add origin ssh://git@github.com/<username>/<repository-name>.git` |
 | Set a repository's origin branch to SSH | `git remote set-url origin ssh://git@github.com/<username>/<repository-name>.git` |
 
+
+### Contributing to Open - Source - Software (OSS)
+
+![Screenshot 2024-02-13 164912](https://github.com/Mrakheen/Git-Commands/assets/53326887/ab670d0f-7e79-416f-8b03-eee42eb0f2cb)
+
+![Screenshot 2024-02-13 165759](https://github.com/Mrakheen/Git-Commands/assets/53326887/b12c1217-450a-413c-b2b3-4bd9d3d34b9e)
+
+![Screenshot 2024-02-13 165905](https://github.com/Mrakheen/Git-Commands/assets/53326887/6fac04ae-2b34-4cc2-afbb-44d68fbb861f)
+
+![Screenshot 2024-02-13 170009](https://github.com/Mrakheen/Git-Commands/assets/53326887/46066258-f01a-4fff-91da-befd60210d2a)
+
+![Screenshot 2024-02-13 170030](https://github.com/Mrakheen/Git-Commands/assets/53326887/8cefe0ff-ec31-4d3f-91ed-0c57a88aa19a)
+
+![Screenshot 2024-02-13 170200](https://github.com/Mrakheen/Git-Commands/assets/53326887/03cb8922-713f-4914-abab-a92d4416e1c7)
+
+![Screenshot 2024-02-13 170320](https://github.com/Mrakheen/Git-Commands/assets/53326887/53b5b64e-3699-4e24-8d12-888b79811408)
+
+![Screenshot 2024-02-13 170750](https://github.com/Mrakheen/Git-Commands/assets/53326887/774f163c-ce82-4730-a7f9-25c71e790f6c)
