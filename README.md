@@ -97,7 +97,7 @@ ___
 
 
 
-## Contributing to Open - Source - Software (OSS)
+## *** Contributing to Open - Source - Software (OSS) ***
 
 ![Screenshot 2024-02-13 164912](https://github.com/Mrakheen/Git-Commands/assets/53326887/ab670d0f-7e79-416f-8b03-eee42eb0f2cb)
 
